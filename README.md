@@ -1,6 +1,9 @@
 kogo to hlopnuli
 edu vistupat na sigit
 legend of budapesht
+JINI
+MEEEEEEEEEESSIIIIII
+SIIIIIUUUUUUUUUU
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
